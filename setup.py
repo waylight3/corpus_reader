@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='corpus_reader',
-    version='0.0.1',
+    version='0.0.2',
     description='A fast and memory-efficient indexing tool for reading large-scale corpora.',
     author='waylight3',
     author_email='waylight3@snu.ac.kr',
